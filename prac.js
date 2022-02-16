@@ -8,3 +8,8 @@ let data = {
   jaiHind,
   sunil,
 };
+
+let a = "alien";
+for (i = 0; i <= a.length; i++) {
+  console.log(a);
+}
