@@ -13,3 +13,5 @@ let a = "alien";
 for (i = 0; i <= a.length; i++) {
   console.log(a);
 }
+
+let b = "hkhkhfkhks";
