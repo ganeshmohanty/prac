@@ -17,3 +17,5 @@ for (i = 0; i <= a.length; i++) {
 let b = "hkhkhfkhks";
 
 const h = "hiiiiii";
+
+const str = "i forgot some command";
